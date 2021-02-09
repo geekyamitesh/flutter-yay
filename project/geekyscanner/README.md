@@ -1,4 +1,4 @@
-# myfirstapp
+# geekyscanner
 
 A new Flutter project.
 
